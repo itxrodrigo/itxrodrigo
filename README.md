@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rodrigo 
-- 👀 I’m interested in iOS developement
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in JAVA developement
 
 <!---
 itxrodrigo/itxrodrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
